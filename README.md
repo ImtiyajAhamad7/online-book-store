@@ -1,8 +1,28 @@
-# React + Vite
+React Vite Book Store App
+A modern book store application built with React and Vite. This app features book listing, filtering by category, and book details.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Installation
+To install and set up this React Vite book store app, follow these steps:
 
-Currently, two official plugins are available:
+Prerequisites
+Node.js (LTS version recommended)
+npm or yarn
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the Repository
+First, clone the repository to your local machine:
+
+command for clonning 
+git clone  https://github.com/ImtiyajAhamad7/online-book-store.git
+cd react-vite-book-store
+
+Install Dependencies
+Install the required dependencies using npm or yarn:
+
+npm install
+yarn install
+
+Setup
+Running the Development Server
+Start the development server with:
+
+npm run dev
